@@ -1,0 +1,10 @@
+diff a/body.html b/body.html	(rejected hunks)
+@@ -3,4 +3,7 @@
+ b
+ c
+ d
++e
++f
++g
+ </html>
+\ No newline at end of file
